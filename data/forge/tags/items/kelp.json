@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:kelp",
+    "upgrade_aquatic:thorny_kelp",
+    "upgrade_aquatic:ochre_kelp",
+    "upgrade_aquatic:polar_kelp",
+    "upgrade_aquatic:tongue_kelp"
+  ]
+}
